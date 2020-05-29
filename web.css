@@ -1,0 +1,104 @@
+h1{
+    color: red;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-size: 35px;
+    text-transform: uppercase;   
+}
+h3{
+    color: blue;
+    font-size: 30px;
+    text transform: uppercase;
+}
+body{
+    background-color: lightgreen;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: black;
+}
+footer{
+    max-width: 100%;
+    background: darkgreen;
+    margin: 40px auto;
+    padding: 10px;
+    position: relative;
+    top: 80px;
+
+}
+#Contact-Section{
+    text-align: center;
+}
+.contact{
+    max-width: 100%;
+    background-color: lightgreen;
+    margin: 40px auto;
+    padding: 10px;
+    white-space: nowrap;
+    position: relative;
+    display: inline-table;
+    
+    
+}
+.crk:hover{
+    background: goldenrod;
+}
+.foot:hover{
+    background: goldenrod;
+}
+.ten:hover{
+    background: goldenrod;
+}
+.con:hover{
+    background: goldenrod;
+}
+.Cricket{
+    margin: 30px auto;
+    padding: 10px 5px;
+    border:8px solid purple;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    overflow: auto;
+    margin: 30px 50px 40px 40px;
+}
+.FootBall{
+    margin: 30px auto;
+    padding: 10px 5px;
+    border: 8px solid purple;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    overflow: auto;
+    margin: 30px 50px 40px 40px;
+   
+}
+.Tennis{
+    margin: 30px auto;
+    padding: 10px 5px;
+    border: 8px solid purple;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+    overflow: auto;    
+    margin: 30px 50px 40px 40px;
+}
+.inner-box{
+    margin: 10px;
+    padding: 10px;
+    border: 4px dashed black;
+    display: fixed;
+}
+.hh{
+    width: auto;
+border: 3px solid darkred;
+padding: auto;
+background-color: bisque;
+}
